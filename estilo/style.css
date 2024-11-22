@@ -95,15 +95,17 @@ section.imagem > p{
 section#img01{
     background-image: url(../imagens/arcane-1.jpg);
     background-position: center center;
-    background-size: cover;
+    background-size: 100vw 100vh;
     background-attachment: fixed;
+    background-repeat: no-repeat;
 }
 
 section#img02{
     background-image: url(../imagens/arcane2.jpg);
     background-position: center center;
-    background-size: cover;
+    background-size: 100vw 100vh;
     background-attachment: fixed;
+    background-repeat: no-repeat;
 }
 
 div{
